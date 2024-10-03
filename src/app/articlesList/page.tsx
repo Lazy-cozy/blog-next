@@ -4,11 +4,6 @@ import articleContent from "@/lib/fakedb";
 import dynamic from "next/dynamic";
 import React from "react";
 
-interface Article {
-    title: string;
-    content: string;
-}
-
 const ArticlesList: React.FC = () => {
     return (
         <div>

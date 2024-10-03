@@ -12,15 +12,6 @@ interface Article {
     thumbnail: string;
 }
 
-interface Comment {
-    id: number;
-    text: string;
-}
-
-interface ArticleInfo {
-    comments: Comment[];
-}
-
 interface ArticleProps {
     params: {
         name: string;

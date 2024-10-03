@@ -5,7 +5,7 @@ import Navbar from "@/components/common/Navbar";
 
 export const metadata: Metadata = {
   title: "Blog App",
-  description: "deb3 blog ",
+  description: "deb3-blog ",
 };
 
 export default function RootLayout({
