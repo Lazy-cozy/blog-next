@@ -29,6 +29,6 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/blog-app.git
+git clone https://github.com/Lazy-cozy/blog-next.git
 cd blog-app
 
